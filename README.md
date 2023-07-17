@@ -51,7 +51,7 @@ With Excellent knowledge in frontend development*
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KareeMagdyy)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim67899@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-el-zomor-0a2a94150/)
-[![karim.website](https://img.shields.io/badge/-KARIM.WEBSITE-000000?style=for-the-badge&logo=react&logoColor=white)](https://karim.website/)
+[![kareem-magdy.com](https://img.shields.io/badge/-KARIM.WEBSITE-000000?style=for-the-badge&logo=react&logoColor=white)](https://kareem-magdy.com/)
 
 
 
